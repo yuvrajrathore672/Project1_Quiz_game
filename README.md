@@ -29,5 +29,10 @@ This project is beginner-friendly and focuses on basic Python concepts like inpu
 ---
 
 ## Scoring System
+
 Correct answer   → +4 points
 Wrong answer     → -1 point
+
+
+
+Created as a beginner Python project for learning and practice.
